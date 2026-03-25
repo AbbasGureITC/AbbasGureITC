@@ -2,4 +2,4 @@
 
 Welcome to my GitHub profile!
 
-![My GIF]()
+![Duke Animation](https://raw.githubusercontent.com/AbbasGureITC/AbbasGureITC/main/duke.gif)
